@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Développeur Web Full Stack | Passionné par la technologie<br>👋 Salut ! Je suis Mouaad Lamssila, un développeur web full stack en formation en Développement Digital à l'OFPPT. Je conçois des applications modernes et performantes en utilisant des technologies comme React.js, Laravel, Node.js, et bien d'autres.<br><br>
+💻 Développeur Web Full Stack | Passionné par la technologie<br>👋 Salut ! Je suis Mouaad Lamssila, un développeur web full stack en formation en Développement Digital à l'OFPPT. Je conçois des applications modernes et performantes en utilisant des technologies comme React.js, Laravel, Node.js, et bien d'autres.<br>
 ## 🚀 Skills :
 💡 Frontend : HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap<br>🖥 Backend : PHP, Laravel, Node.js<br>🗄 Bases de données : MySQL, MongoDB<br>🛠 Outils : Git/GitHub, Docker, Postman<br>
 
