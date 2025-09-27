@@ -17,7 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mouadlamsila&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 🎮 GitHub Breakout Game:
+# 🚀 Interactive Breakout on My GitHub Profile
 
 <picture>
   <source
