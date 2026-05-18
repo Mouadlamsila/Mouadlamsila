@@ -1,7 +1,7 @@
 # 💫 About Me:
-💻 Développeur Web Full Stack | Passionné par la technologie<br>👋 Salut ! Je suis Mouaad Lamssila, un développeur web full stack en formation en Développement Digital à l'OFPPT. Je conçois des applications modernes et performantes en utilisant des technologies comme React.js, Laravel, Node.js, et bien d'autres.<br>
+💻 Développeur Web Full Stack 
 ## 🚀 Skills :
-💡 Frontend : HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap<br>🖥 Backend : PHP, Laravel, Node.js<br>🗄 Bases de données : MySQL, MongoDB<br>🛠 Outils : Git/GitHub, Docker, Postman<br>
+💡 Frontend : HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap, Next.js <br>🖥 Backend : PHP, Laravel, Node.js, Python<br>🗄 Bases de données : MySQL, MongoDB, Pgsql <br>🛠 Outils : Git/GitHub, Docker, Postman<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mouadlamsila) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamsila-mouad/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22664016/mouad-lamsila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouad.lamssila@gmail.com) 
