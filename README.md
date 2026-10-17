@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1640FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mouad+%F0%9F%91%8B;Full-Stack+Developer+%7C;Co-founder+%40+DJERY+%E2%80%94+Restaurant+SaaS;Building+products+with+React%2C+Next.js+%26+Laravel" alt="Typing SVG" />
+<a href="https://lamsila.netlify.app"><img src="https://lamsila.netlify.app/img/hero/ChatGPT%20Image%20Feb%2028,%202026,%2002_59_03%20PM.jpg" alt="Mouad Lamsila" width="180" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1640FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mouad+%F0%9F%91%8B;Full-Stack+Developer+%7C+Casablanca%2C+Morocco;Co-founder+%40+DJERY+%E2%80%94+Restaurant+SaaS;Building+products+with+React%2C+Next.js+%26+Laravel" alt="Typing SVG" />
 
 <p>
+  <a href="https://lamsila.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1640FA?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lamsila-mouad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mouad.lamssila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/mouadlamsila"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/22664016/mouad-lamsila"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-<img src="[https://visitcount.itsvg.in/api?id=Mouadlamsila&icon=0&color=0](https://lamsila.netlify.app/img/hero/ChatGPT%20Image%20Feb%2028,%202026,%2002_59_03%20PM.jpg)" alt="Profile views" />
+<img src="https://visitcount.itsvg.in/api?id=Mouadlamsila&icon=0&color=0" alt="Profile views" />
 
 </div>
 
@@ -22,6 +25,7 @@ I'm a **full-stack web developer** from Casablanca with ~3 years of hands-on exp
 - 🚀 Co-founder & **Frontend Lead** at **DJERY** — a multi-tenant SaaS for restaurant management
 - 🏢 Running **Codsella** — my web development service for businesses and startups
 - 🤖 Exploring **AI & automation** to ship faster and build smarter products
+- 🌐 Portfolio: [lamsila.netlify.app](https://lamsila.netlify.app)
 - 🌍 Languages: Arabic · French · English
 
 ---
@@ -75,7 +79,7 @@ I build **fast, modern and scalable web apps** for startups and businesses.
 - 🧩 SaaS platforms & dashboards
 - ⚙️ Custom back-office tools & automation
 
-📩 **Contact me:** [mouad.lamssila@gmail.com](mailto:mouad.lamssila@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lamsila-mouad/)
+📩 **Contact me:** [mouad.lamssila@gmail.com](mailto:mouad.lamssila@gmail.com) · [Portfolio](https://lamsila.netlify.app) · [LinkedIn](https://www.linkedin.com/in/lamsila-mouad/)
 
 ---
 
