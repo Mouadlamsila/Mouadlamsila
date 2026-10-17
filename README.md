@@ -9,7 +9,7 @@
   <a href="https://stackoverflow.com/users/22664016/mouad-lamsila"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
-<img src="https://visitcount.itsvg.in/api?id=Mouadlamsila&icon=0&color=0" alt="Profile views" />
+<img src="[https://visitcount.itsvg.in/api?id=Mouadlamsila&icon=0&color=0](https://lamsila.netlify.app/img/hero/ChatGPT%20Image%20Feb%2028,%202026,%2002_59_03%20PM.jpg)" alt="Profile views" />
 
 </div>
 
