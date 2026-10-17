@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1640FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mouad+%F0%9F%91%8B;Full-Stack+Developer+%7C+Casablanca%2C+Morocco;Co-founder+%40+DJERY+%E2%80%94+Restaurant+SaaS;Building+products+with+React%2C+Next.js+%26+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1640FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mouad+%F0%9F%91%8B;Full-Stack+Developer+%7C;Co-founder+%40+DJERY+%E2%80%94+Restaurant+SaaS;Building+products+with+React%2C+Next.js+%26+Laravel" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/lamsila-mouad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
